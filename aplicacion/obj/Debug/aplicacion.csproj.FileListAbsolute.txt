@@ -1,0 +1,10 @@
+D:\ARCHIVOS\Documentos\uni\erasmus\asignaturas\information security\codigo sha256\aplicacion\aplicacion\bin\Debug\aplicacion.exe.config
+D:\ARCHIVOS\Documentos\uni\erasmus\asignaturas\information security\codigo sha256\aplicacion\aplicacion\bin\Debug\aplicacion.exe
+D:\ARCHIVOS\Documentos\uni\erasmus\asignaturas\information security\codigo sha256\aplicacion\aplicacion\bin\Debug\aplicacion.pdb
+D:\ARCHIVOS\Documentos\uni\erasmus\asignaturas\information security\codigo sha256\aplicacion\aplicacion\obj\Debug\aplicacion.csprojResolveAssemblyReference.cache
+D:\ARCHIVOS\Documentos\uni\erasmus\asignaturas\information security\codigo sha256\aplicacion\aplicacion\obj\Debug\aplicacion.Form1.resources
+D:\ARCHIVOS\Documentos\uni\erasmus\asignaturas\information security\codigo sha256\aplicacion\aplicacion\obj\Debug\aplicacion.Properties.Resources.resources
+D:\ARCHIVOS\Documentos\uni\erasmus\asignaturas\information security\codigo sha256\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.GenerateResource.cache
+D:\ARCHIVOS\Documentos\uni\erasmus\asignaturas\information security\codigo sha256\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.CoreCompileInputs.cache
+D:\ARCHIVOS\Documentos\uni\erasmus\asignaturas\information security\codigo sha256\aplicacion\aplicacion\obj\Debug\aplicacion.exe
+D:\ARCHIVOS\Documentos\uni\erasmus\asignaturas\information security\codigo sha256\aplicacion\aplicacion\obj\Debug\aplicacion.pdb
